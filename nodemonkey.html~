@@ -45,15 +45,15 @@
 
     <div class="container">
 
-      <div class="row row-offcanvas row-offcanvas-right">
+      <div class="row row-offcanvas row-offcanvas-right" style="margin-top:70px!important">
 
         <div class="col-xs-12 col-sm-9">
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           <div class="jumbotron">
-            <h2>Hello, world!</h2>
-            <p>StandBy....</p>
+            <h3>Nodemonkey</h3>
+            <p>Example of Modular Node.js with Bootstrap</p>
           </div>
             
         </div><!--/span-->
