@@ -8,6 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    
+         <!-- SEARCH ENGINE -->
+    <meta name="description" content="Pemrograman Komputer,Node.js,Python,Laravel">
+    <meta name="author" content="https://plus.google.com/103246562201441175208">
+    <meta name="rating" content="general">
+    <meta name="keywords" content="pemrograman,node.js,python,laravel,bootstrap">
+    
     <!-- Bootstrap core CSS -->
         <link href="http://codetrash.com/assets/css/bootstrap.css" rel="stylesheet">
     <link href="http://codetrash.com/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
